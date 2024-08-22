@@ -6,12 +6,11 @@ An advanced lip syncing software, allowing you to change the lip movements in a 
 
 ### How to Use
 
-1. Visit [this link](https://colab.research.google.com/github/indianajson/wav2lip-HD/blob/main/colab.ipynb) to launch the program in Google Colab.
-2. Run the first code block labeled "Installation". This will take 1-2 minutes.
-3. Upload a video file and audio file to the `wav2lip-HD/inputs` folder in Colab.
-4. Change the file names in the block of code labeled `Synchronize Video and Speech` and run the code block. 
-5. Once finished run the code block labeled `Boost the Resolution` to increase the quality of the face.
-6. Download your file from `wav2lip-HD/outputs` likely named `output_0000.mp4`.
+1. Run the first code block labeled "Installation". This will take 1-2 minutes.
+2. Upload a video file and audio file to the `wav2lip-HD/inputs` folder in Colab.
+3. Change the file names in the block of code labeled `Synchronize Video and Speech` and run the code block. 
+4. Once finished run the code block labeled `Boost the Resolution` to increase the quality of the face.
+5. Download your file from `wav2lip-HD/outputs` likely named `output_0000.mp4`.
 
 ### FAQs
  
