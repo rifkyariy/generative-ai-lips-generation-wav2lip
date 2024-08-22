@@ -1,4 +1,4 @@
-<h1 align="center">wav2lip (High Definition)<br><sup><sub>Alternative to Flawless AI's TrueSync<br>  <sup>Run the code on &nbsp;</sup><a target="_blank" href="https://colab.research.google.com/github/indianajson/wav2lip-HD/blob/main/colab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> &nbsp; 
+<h1 align="center">wav2lip (High Definition)<br><sup><sub>Alternative to Flawless AI's TrueSync<br>  <sup>Run the code on &nbsp;</sup><a target="_blank" href="https://colab.research.google.com/drive/17yRLtxgNoDxBIyfL5q1lVdaZFLUfV0BY?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> &nbsp; 
   </sub></sup>
  </h1>
 
